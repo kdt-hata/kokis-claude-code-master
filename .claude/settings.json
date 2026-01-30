@@ -29,5 +29,8 @@
       "WebFetch(domain:localhost)"
     ],
     "deny": []
+  },
+  "enabledPlugins": {
+    "example-skills@anthropic-agent-skills": true
   }
 }
