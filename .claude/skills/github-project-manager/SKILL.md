@@ -11,6 +11,18 @@ kodato-dev/ai-master-project リポジトリの「All AI Project」を管理す�
 
 - **リポジトリ**: `kodato-dev/ai-master-project`
 - **プロジェクト**: All AI Project
+- **プロジェクト番号**: 8
+- **プロジェクトURL**: https://github.com/orgs/kodato-dev/projects/8/views/4
+
+## 重要なルール
+
+**イシュー作成時は必ずプロジェクトに紐付けること**
+
+イシューを作成したら、必ず以下のコマンドでプロジェクト(#8)に追加する：
+
+```bash
+gh project item-add 8 --owner kodato-dev --url https://github.com/kodato-dev/ai-master-project/issues/イシュー番号
+```
 
 ## タスク一覧
 
